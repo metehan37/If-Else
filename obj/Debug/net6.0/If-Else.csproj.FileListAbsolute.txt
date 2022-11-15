@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Pratikler\If-Else\bin\Debug\net6.0\If-Else.exe
+C:\Users\Metehan\Desktop\Pratikler\If-Else\bin\Debug\net6.0\If-Else.deps.json
+C:\Users\Metehan\Desktop\Pratikler\If-Else\bin\Debug\net6.0\If-Else.runtimeconfig.json
+C:\Users\Metehan\Desktop\Pratikler\If-Else\bin\Debug\net6.0\If-Else.dll
+C:\Users\Metehan\Desktop\Pratikler\If-Else\bin\Debug\net6.0\If-Else.pdb
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\If-Else.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\If-Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\If-Else.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\If-Else.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\If-Else.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\If-Else.dll
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\refint\If-Else.dll
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\If-Else.pdb
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\If-Else.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Pratikler\If-Else\obj\Debug\net6.0\ref\If-Else.dll
